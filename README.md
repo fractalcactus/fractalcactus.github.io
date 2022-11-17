@@ -1,1 +1,2 @@
-<iframe src="https://giphy.com/embed/g3bKgbTctP1kI" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/children-g3bKgbTctP1kI">via GIPHY</a></p>
+
+![Book logo](https://giphy.com/embed/g3bKgbTctP1kI)
