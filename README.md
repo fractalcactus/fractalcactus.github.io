@@ -1,2 +1,2 @@
 
-![Book logo](https://giphy.com/embed/g3bKgbTctP1kI)
+![Book logo](https://media.giphy.com/media/g3bKgbTctP1kI/giphy.gif)
